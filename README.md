@@ -1,6 +1,6 @@
 # Quantum Bayesian Neural Networks
 
-This repository contains the source code and data for the paper [Quantum Bayesian Neural Networks]().
+This repository contains the source code and data for the paper [Quantum Bayesian Neural Networks](https://arxiv.org/abs/2107.09599).
 
 ## Getting Started
 
